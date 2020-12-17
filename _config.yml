@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu  Mingwei"
+title                    : "Liu Mingwei"
 title_separator          : "-"
 name                     : &name "Liu Mingwei"
-description              : &description "Fudan University, Software Engineering Laboratory, PhD. Research fields: API knowledge graph, knowledge mining, knowledge recommendation."
-url                      : https://liumingwei94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Fudan University, Software Engineering Laboratory, PhD Student. Research fields: API knowledge graph, knowledge mining, knowledge recommendation."
+url                      : https://liumingwe94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Liu Mingwei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Fudan University, Software Engineering Laboratory, PhD Student. Research fields: API knowledge graph, knowledge mining, knowledge recommendation"
+  location         : "Fudan University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?&user=pd8zNUoAAAAJ"
+  email            : "19110240019@fudan.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Mingwei_Liu13"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/liumingwei94"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
