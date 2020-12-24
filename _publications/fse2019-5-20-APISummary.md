@@ -3,7 +3,7 @@ title: "Generating query-specific class API summaries"
 collection: publications
 permalink: /publication/2019-05-20-APISum
 excerpt: ' We propose an approach for generating on-demand, extrinsic hybrid summaries for API classes, relevant to a programming task, formulated as a natural language query. The summaries include the most relevant sentences extracted from the API reference documentation and the most relevant methods.'
-date: 2018-07-30
+date: 2019-05-20
 venue: 'ESEC/FSE 2019'
 paperurl: 'http://liumingwei94.github.io/files/fse19-liu-APISummary.pdf'
 citation: 'Mingwei Liu, Xin Peng, Andrian Marcus, Zhenchang Xing, Wenkai Xie, Shuangshuang Xing, Yang Liu: Generating query-specific class API summaries. ESEC/SIGSOFT FSE 2019: 120-130'
